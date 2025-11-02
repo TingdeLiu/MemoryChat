@@ -1,4 +1,4 @@
-# MemoryChat - AI 纪念聊伴
+# MemoryChat - AI 纪念聊伴 
 
 基于 RAG (检索增强生成) 技术的 AI 纪念聊伴系统,为逝者家属提供温暖的陪伴。
 
@@ -19,7 +19,7 @@
 # 基础依赖
 pip install -r requirements.txt
 
-# 或单独安装
+# 或者单独安装
 pip install python-dotenv sentence-transformers chromadb numpy
 
 # 可选: LLM 提供商
